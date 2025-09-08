@@ -1,8 +1,7 @@
 /*
-Rachael Savage
+
 MS549 - Data Structures and Testing
-Dr. Jill Coddington
-12/08/2024
+
 */
 
 /*
@@ -205,4 +204,5 @@ int main() {
     cout << "\n\n\n" << endl;
     return 0;
 }//end main
+
 
